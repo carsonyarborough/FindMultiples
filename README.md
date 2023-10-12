@@ -1,3 +1,3 @@
-<p align="center">
+<h1 align="center">
 # FindMultiples
-</p>
+</h1>
