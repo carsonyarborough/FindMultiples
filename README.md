@@ -25,4 +25,5 @@ export function findMultiples(integer: number, limit: number): number[] {
 
 }
 ```
+
 [Original Kata](https://www.codewars.com/kata/58ca658cc0d6401f2700045f)
