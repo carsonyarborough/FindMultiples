@@ -25,6 +25,6 @@ export function findMultiples(integer: number, limit: number): number[] {
 
 }
 
-<h3>
-[Original Kata](https://www.codewars.com/kata/58ca658cc0d6401f2700045f)
-</h3>
+<text>
+[Original Kata] (https://www.codewars.com/kata/58ca658cc0d6401f2700045f)
+</text>
