@@ -10,6 +10,7 @@ In this simple exercise, you will build a program that takes a value, integer , 
 Solution 
 </h3>
 ```
+
 export function findMultiples(integer: number, limit: number): number[] {
   //your code here
      const arr = [];
@@ -22,4 +23,6 @@ export function findMultiples(integer: number, limit: number): number[] {
   }
   return arr;
 
-}```
+}
+
+```
