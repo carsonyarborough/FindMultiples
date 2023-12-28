@@ -24,5 +24,4 @@ export function findMultiples(integer: number, limit: number): number[] {
   return arr;
 
 }
-
 ```
