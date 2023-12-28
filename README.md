@@ -1,7 +1,7 @@
 <h1 align="center">
 FindMultiples
 </h1>
-<h3 align="right">
+<h3 align="left">
 Description;
 In this simple exercise, you will build a program that takes a value, integer , and returns a list of its multiples up to another value, limit . If limit is a multiple of integer, it should be included as well. There will only ever be positive integers passed into the function, not consisting of 0. The limit will always be higher than the base.
 
@@ -9,8 +9,7 @@ For example, if the parameters passed are (2, 6), the function should return [2,
 </h3>
 
 <h3 align="left">
-Solution
-```
+Solution```
 export function findMultiples(integer: number, limit: number): number[] {
   //your code here
      const arr = [];
@@ -23,5 +22,5 @@ export function findMultiples(integer: number, limit: number): number[] {
   }
   return arr;
 
-}
-```
+}```
+</h3>
