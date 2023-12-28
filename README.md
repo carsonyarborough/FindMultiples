@@ -9,7 +9,7 @@ For example, if the parameters passed are (2, 6), the function should return [2,
 </h3>
 
 <h3 align="left">
-Solution```
+Solution ```
 export function findMultiples(integer: number, limit: number): number[] {
   //your code here
      const arr = [];
